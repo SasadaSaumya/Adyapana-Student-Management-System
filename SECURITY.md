@@ -1,3 +1,6 @@
+License
+
+Copyright (c) 2024 Sasanda Saumya
 
 
 ## Supported Versions
