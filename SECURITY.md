@@ -1,6 +1,6 @@
-License
+## License
 
-Copyright (c) 2024 Sasanda Saumya
+<sub>Copyright (c) 2024 Sasanda Saumya</sub>
 
 
 ## Supported Versions
